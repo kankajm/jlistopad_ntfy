@@ -1,1 +1,0 @@
-# jlistopad_ntfy
